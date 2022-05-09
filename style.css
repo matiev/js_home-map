@@ -1,0 +1,57 @@
+html, body {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.home-map {
+    width: 100%;
+    max-width: 600px;
+    height: 350px;
+}
+svg {
+    width: 100%;
+    height: 100%;
+}
+.pol {
+    fill: green;
+    /* max-width: 300px; */
+}
+.pol:hover {
+    fill: red;
+        white-space: pre-wrap;    
+
+}
+.curText{
+    position: absolute;
+    /* border-right: 3px solid rgb(211, 26, 26); */
+    background-color: rgb(46, 46, 46);
+    padding: 15px;
+    border-radius: 3px;
+    color: #FFF;
+}
+p {
+    margin: 0;
+    padding: 0;
+    max-width: 200px;
+    padding-bottom: 10px;
+}
+/* 
+* > p:first-child {
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom: 1px solid #555;
+    margin-bottom: 10px;
+} 
+*/
+.pol-name {
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom: 1px solid #555;
+    margin-bottom: 10px;
+}
+.pol-description {
+    color: rgb(216, 216, 216);
+}
+.pol-price {
+    font-size: 20px;
+    color: rgb(119, 194, 238)
+}

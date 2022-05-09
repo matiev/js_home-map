@@ -1,0 +1,10 @@
+<svg id="aa" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 658 548">
+    <polygon class="pol" viewBox="0 0 658 548" data-name="
+        <p class='pol-name'>Спальня</p>
+        <p class='pol-description'>Спальня — важное помещение в доме. Во многих странах дом или квартиру в первую очередь характеризуют количеством спален.</p>
+        <p class='pol-price'>300 руб.</p>"
+    points="168 254 310.69 488.65 432 447 267 222 168 254"/>
+    <polygon class="pol" viewBox="0 0 658 548" data-name="Кабинет" points="165 252 153 233 0 283 129 548 176.61 531.65 166.5 514.5 250.5 487.5 260.97 502.69 307.69 486.65 165 252"/>
+    <polygon class="pol" viewBox="0 0 658 548" data-name="Кухня" points="491 0 279 68 362 170 574.63 100.75 491 0"/>
+    <polygon class="pol" viewBox="0 0 658 548" data-name="Зал" points="658 201 575.63 101.75 363 171 256 205 273 227 438 452 449 470 658 401 531 243 658 201"/>
+</svg>
