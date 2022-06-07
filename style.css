@@ -11,10 +11,6 @@ svg {
     width: 100%;
     height: 100%;
 }
-.pol {
-    fill: green;
-    /* max-width: 300px; */
-}
 .pol:hover {
     fill: red;
         white-space: pre-wrap;    
