@@ -39,3 +39,16 @@ p {
     margin-bottom: 10px;
 } 
 */
+.pol-name {
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom: 1px solid #555;
+    margin-bottom: 10px;
+}
+.pol-description {
+    color: rgb(216, 216, 216);
+}
+.pol-price {
+    font-size: 20px;
+    color: rgb(119, 194, 238)
+}
