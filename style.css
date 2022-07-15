@@ -16,8 +16,7 @@ svg {
 }
 .pol:hover {
     fill: red;
-        white-space: pre-wrap;    
-
+        white-space: pre-wrap;
 }
 .curText{
     position: absolute;
