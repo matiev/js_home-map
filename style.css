@@ -1,5 +1,6 @@
 html, body {
     font-family: 'Trebuchet MS', sans-serif;
+    border: 1px solid blue;
 }
 
 .home-map {
