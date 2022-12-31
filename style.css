@@ -2,6 +2,7 @@ html, body {
     font-family: 'Trebuchet MS', sans-serif;
     border: 1px solid blue;
     margin: 0;
+    padding: 0;
 }
 
 .home-map {
